@@ -1,0 +1,28 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Django generated files
+*.sqlite3
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+
+# Secret keys
+.env
+
+# Static files directory
+/staticfiles/
+
+# Media files directory
+/media/
+
+# Virtual environment
+venv/
+
+
+
